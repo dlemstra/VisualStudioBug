@@ -22,3 +22,5 @@ This will result in the following exception:
 ```
 Object reference not set to an instance of an object.
 ```
+
+The issue has been reported here: https://developercommunity.visualstudio.com/content/problem/18561/object-reference-not-set-to-an-instance-of-an-obje-2.html
